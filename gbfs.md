@@ -5,7 +5,7 @@ This document explains the types of files and data that comprise the General Bik
 # Reference version
 This documentation refers to **v3.0-RC (release candidate)**. For past and upcoming versions see the [README](README.md#read-the-spec--version-history).
 
-## Table of Contents
+## Table of Contents allo
 
 * [Introduction](#introduction)
 * [Version Endpoints](#version-endpoints)
